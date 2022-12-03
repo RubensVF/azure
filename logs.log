@@ -15,3 +15,6 @@
 2022-11-30T23:18:35.765-06:00  INFO 46013 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
 2022-11-30T23:18:35.782-06:00 ERROR 46013 --- [http-nio-8080-exec-1] com.ruben.restapi.RestapiApplication     : Dto(id=2, name=ruben)
 2022-11-30T23:19:21.847-06:00  WARN 46013 --- [http-nio-8080-exec-3] com.ruben.restapi.RestapiApplication     : mi primer log
+2022-12-01T21:46:16.490-06:00  INFO 105205 --- [main] c.ruben.restapi.RestapiApplicationTests  : Starting RestapiApplicationTests using Java 17.0.5 with PID 105205 (started by dragonfly in /home/dragonfly/Dev/java/azure)
+2022-12-01T21:46:16.494-06:00  INFO 105205 --- [main] c.ruben.restapi.RestapiApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-12-01T21:46:17.429-06:00  INFO 105205 --- [main] c.ruben.restapi.RestapiApplicationTests  : Started RestapiApplicationTests in 1.2 seconds (process running for 1.938)
